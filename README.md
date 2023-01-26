@@ -4,7 +4,7 @@
 ### Spring Boot Study (2023.01.19.목 ~ )
 💻 YouTube - Spring Boot 강의로 공부 중 (by 어라운드 허브 스튜디오) https://youtu.be/rHJgMRimJ4Y     
 <b> 
-1. [Tool 설치 & Project 생성]()  
+1. [Tool 설치 & Project 생성](https://github.com/YeJi222/TIL/blob/main/SpringBoot/setting.md)  
 2. [GET API & DTO]()  
 3. [POST API]()  
 4. [Swagger]()  
