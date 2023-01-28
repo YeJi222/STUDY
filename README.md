@@ -6,7 +6,7 @@
 <b> 
 1. [Tool 설치 & Project 생성](https://github.com/YeJi222/TIL/blob/main/SpringBoot/setting.md)  
 2. [GET API & DTO](https://github.com/YeJi222/TIL/blob/main/SpringBoot/getAPI_DTO.md)  
-3. [POST API]()  
+3. [POST API & Swagger](https://github.com/YeJi222/TIL/blob/main/SpringBoot/postAPI_Swagger.md)  
 4. [Swagger]()  
 
 </b>
