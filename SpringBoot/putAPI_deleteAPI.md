@@ -31,35 +31,28 @@
         - member1
         <img src="https://ifh.cc/g/ywm4Lv.jpg" width="80%"> 
             <br>
-            - DTO 클래스 정해져 있는 값으로 전달해 주어야 한다  
+            - DTO 클래스 정해져 있는 값으로 전달해 주어야 한다  <br>
+            - member1은 toString()에서 return한 형태로 response
            
             {
                 "email": "21900806@handong.ac.kr",
                 "name": "HongYeJi",
                 "organization": "Handong"
             }
-                
-            - member1은 toString()에서 return한 형태로 response
-                
+        <img src="https://ifh.cc/g/wwSd6o.jpg" width="80%">         
                 
         - member2
             - member2는 json 형태로 response
-                
-                ![https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/23476583-d03b-4419-9fb7-eb47cc966fec.png](https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/23476583-d03b-4419-9fb7-eb47cc966fec.png)
-                
+        <img src="https://ifh.cc/g/F40TXL.jpg" width="80%">                 
+        
         - member3
-            
-            ![https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/96e51240-b99c-4d09-8f73-f82e7cf76620.png](https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/96e51240-b99c-4d09-8f73-f82e7cf76620.png)
-            
-            - member3은 response body가 json 형태
-                
-                : body(memberDTO)니까 memberTDO 형식 즉 json 형태를 return
-                
-            - code값이 변경된 것을 확인할 수 있다 (200 코드가 아닌 202)
-                
-                cf) 202 -> Accepted 값이 202
-                
-                ![https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/ea33c31d-1876-4258-903f-42decf480291.png](https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/ea33c31d-1876-4258-903f-42decf480291.png)
+         <img src="https://ifh.cc/g/kkm729.jpg" width="80%"> 
+         <br>
+            - member3은 response body가 json 형태 <br>
+            : body(memberDTO)니까 memberTDO 형식 즉 json 형태를 return <br>    
+            - code값이 변경된 것을 확인할 수 있다 (200 코드가 아닌 202) <br>    
+            cf) 202 -> Accepted 값이 202
+         <img src="https://ifh.cc/g/XTxpMK.jpg" width="80%"> 
                 
     - delete controller
         
