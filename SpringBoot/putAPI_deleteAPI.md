@@ -18,33 +18,29 @@
 - Swagger 통한 실습
     - [http://localhost:9090/swagger-ui/index.html](http://localhost:9090/swagger-ui/index.html#/delete-controller/DeleteVariableUsingDELETE)
     - put-controller
-        - member
+        - member   
         <img src="https://ifh.cc/g/RLdbqm.jpg" width="80%">
             
             {
                 "name" : "yeji",
                 "phone-number" : "010-1234-5678"
             }
-        <img src="https://ifh.cc/g/3vFZD4.jpg" width="80%">
-            
+        <img src="https://ifh.cc/g/3vFZD4.jpg" width="80%"> 
+    
+        
         - member1
-            
-            
-            - DTO 클래스 정해져 있는 값으로 전달해 주어야 한다
-                
-                {
-                
+        <img src="https://ifh.cc/g/ywm4Lv.jpg" width="80%"> 
+            <br>
+            - DTO 클래스 정해져 있는 값으로 전달해 주어야 한다  
+           
+            {
                 "email": "21900806@handong.ac.kr",
-                
                 "name": "HongYeJi",
-                
                 "organization": "Handong"
-                
-                }
+            }
                 
             - member1은 toString()에서 return한 형태로 response
                 
-                ![https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/56916731-77cd-4465-af46-1bf289cfb74a.png](https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/image_upload/74d499a23b8243008e0d7dac2359dc9b/56916731-77cd-4465-af46-1bf289cfb74a.png)
                 
         - member2
             - member2는 json 형태로 response
