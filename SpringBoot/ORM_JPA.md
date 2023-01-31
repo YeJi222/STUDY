@@ -2,7 +2,7 @@
 
 - ORM (Object Relational Mapping)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2dc67ccf-2b19-4205-bb2d-57657550ec41/Untitled.png)
+    <img src="https://ifh.cc/g/GNFN7C.jpg" width="80%">
     
     - 어플리케이션의 객체와 관계형 데이터베이스의 데이터를 자동으로 매핑해주는 것을 의미
         - Java의 데이터 클래스와 관계형 데이터베이스의 테이블을 매핑
@@ -23,7 +23,7 @@
     - 대형 쿼리는 별도의 튜닝이 필요할 수 있다
 - JPA (Java Persistance API)
     
-    ![https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/capture_images/095286546e6140c597500755a86160f6/b4bfa8c3-ed7d-44e4-9307-858704c9ea3d.png](https://slid-users-assets-v1-seoul.s3.ap-northeast-2.amazonaws.com/public/capture_images/095286546e6140c597500755a86160f6/b4bfa8c3-ed7d-44e4-9307-858704c9ea3d.png)
+    <img src="https://ifh.cc/g/49QCnk.jpg" width="80%">
     
     - JPA는 Java Persistance API의 줄임말이며, ORM과 관련된 인터페이스의 모음
     - Java 진영에서 표준 ORM으로 채택되어 있다
