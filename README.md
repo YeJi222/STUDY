@@ -12,7 +12,5 @@
 6. [Lombok](https://github.com/YeJi222/TIL/blob/main/SpringBoot/lombok.md)  
 7. [Spring Boot 서비스 구조](https://github.com/YeJi222/TIL/blob/main/SpringBoot/serviceStructure.md)   
 8. [ORM & JPA](https://github.com/YeJi222/TIL/blob/main/SpringBoot/ORM_JPA.md)   
-9. []()
-  
   
 </b>
